@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace GA_MethodOverloading_MikalJohnson
 {
+    // Mikal Johnson
+    // 02/21/2024
     internal class EmployeeDatabase
     {
         // Overloaded method to add an employee with just a name
